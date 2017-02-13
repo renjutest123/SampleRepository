@@ -1,0 +1,11 @@
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\Sample.ConsoleApp.exe.config
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\Sample.ConsoleApp.exe
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\Sample.ConsoleApp.pdb
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\System.Web.Http.dll
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\bin\Debug\System.Web.Http.xml
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\obj\Debug\Sample.ConsoleApp.exe
+C:\SampleHelloWorld\SampleHelloWorld.Solution\Sample.ConsoleApp\obj\Debug\Sample.ConsoleApp.pdb
